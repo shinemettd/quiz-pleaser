@@ -2,5 +2,5 @@
 
 public class AppConfig
 {
-    public string Language { get; set; } = "en";
+    public string Language { get; set; }
 }

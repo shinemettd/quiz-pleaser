@@ -8,6 +8,15 @@
   "menu.import": "Импорт",
   "menu.exit": "Выход",
 
+  "quiz.question_count_prompt": "Сколько вопросов вы хотите пройти? Всего: ",
+  "quiz.no_questions": "Нет доступных вопросов.",
+  "quiz.answer_prompt": "Ваш ответ: ",
+  "quiz.correct": "Верно!",
+  "quiz.wrong": "Неверно.",
+  "quiz.correct_answer": "Правильный ответ",
+  "quiz.press_any_key": "Нажмите любую клавишу для продолжения...",
+  "quiz.result_summary": "Ваш результат:",
+
   "info.loading_questions": "Загрузка вопросов",
   "info.loading_themes": "Загрузка тем",
   

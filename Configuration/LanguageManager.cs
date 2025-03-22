@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using QuizPleaser.Utils;
 
 namespace QuizPleaser.Services;
 
@@ -60,10 +61,10 @@ public class LanguageManager
 
     private static int GetLanguageIndexFromUser(List<(string Code, string Name)> languages)
     {
-        Console.WriteLine("Choose language:");
+        ConsoleUtil.TypeLine("Choose language:");
 
         for (int i = 0; i < languages.Count; i++)
-            Console.WriteLine($"{i + 1}. {languages[i].Name}");
+            ConsoleUtil.TypeLine($"{i + 1}. {languages[i].Name}");
 
         Console.Write("Choice: ");
         var input = Console.ReadLine();
@@ -73,8 +74,8 @@ public class LanguageManager
 
     private static void NoLocalizationExit()
     {
-        Console.WriteLine("No localization files found in 'Localization/'");
-        Console.WriteLine("Make sure at least 'en.json' exists");
+        ConsoleUtil.TypeLine("No localization files found in 'Localization/'");
+        ConsoleUtil.TypeLine("Make sure at least 'en.json' exists");
         Environment.Exit(1);
     }
 }

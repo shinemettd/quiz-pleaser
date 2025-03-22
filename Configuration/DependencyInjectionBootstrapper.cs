@@ -21,6 +21,9 @@ public class DependencyInjectionBootstrapper
         services.AddSingleton<IMenuAction, ShowResultsAction>();
         services.AddSingleton<IMenuAction, ImportDataAction>();
         services.AddSingleton<IMenuAction, ExitAction>();
+        
+        services.AddSingleton<IQuizService, QuizService>();
+        services.AddSingleton<IResultService, ResultService>();
 
         services.AddSingleton<App>();
 

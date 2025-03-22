@@ -1,5 +1,6 @@
 ﻿using QuizPleaser.Menu;
 using QuizPleaser.Services;
+using QuizPleaser.Utils;
 
 namespace QuizPleaser;
 
@@ -19,13 +20,13 @@ public class App
         while (true)
         {
             Console.Clear();
-            Console.WriteLine(_localizer["menu.title"]);
+            ConsoleUtil.TypeLine(_localizer["menu.title"]);
 
             var actionList = _actions.ToList();
 
             for (int i = 0; i < actionList.Count; i++)
             {
-                Console.WriteLine($"{i + 1}. {actionList[i].Name}");
+                ConsoleUtil.TypeLine($"{i + 1}. {actionList[i].Name}");
             }
 
             Console.Write(_localizer["menu.choice"]);
@@ -39,7 +40,7 @@ public class App
             }
             else
             {
-                Console.WriteLine(_localizer["error.invalid_input"]);
+                ConsoleUtil.TypeLine(_localizer["error.invalid_input"]);
                 Thread.Sleep(1000);
             }
         }

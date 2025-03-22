@@ -7,7 +7,6 @@ namespace QuizPleaser.Services;
 public class YamlLoader : IYamlLoader
 {
     private readonly IDeserializer _deserializer;
-    
     private readonly ILocalizer _localizer;
     
     public YamlLoader(ILocalizer localizer)

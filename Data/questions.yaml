@@ -1,0 +1,401 @@
+﻿questions:
+  - answers:
+      - '96'
+      - '84'
+      - '108'
+      - '88'
+    correct_answer_index: 0
+    text: Сколько будет 12 × 8?
+    theme: math
+  - answers:
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+    correct_answer_index: 2
+    text: Чему равен корень из 144?
+    theme: math
+  - answers:
+      - '45'
+      - '90'
+      - '180'
+      - '360'
+    correct_answer_index: 1
+    text: Сколько градусов в прямом угле?
+    theme: math
+  - answers:
+      - '9'
+      - '15'
+      - '17'
+      - '21'
+    correct_answer_index: 2
+    text: Какое число является простым?
+    theme: math
+  - answers:
+      - '10'
+      - '32'
+      - '64'
+      - '16'
+    correct_answer_index: 1
+    text: Сколько будет 2 в 5 степени?
+    theme: math
+  - answers:
+      - '1991'
+      - '1989'
+      - '1993'
+      - '1990'
+    correct_answer_index: 0
+    text: В каком году распался СССР?
+    theme: history
+  - answers:
+      - Авраам Линкольн
+      - Джордж Вашингтон
+      - Томас Джефферсон
+      - Бенджамин Франклин
+    correct_answer_index: 1
+    text: Кто был первым президентом США?
+    theme: history
+  - answers:
+      - Франция
+      - Бельгия
+      - Германия
+      - Англия
+    correct_answer_index: 1
+    text: Где проходила битва при Ватерлоо?
+    theme: history
+  - answers:
+      - Первая мировая война
+      - Холодная война
+      - Вторая мировая война
+      - Крестовые походы
+    correct_answer_index: 2
+    text: Какое событие началось в 1939 году?
+    theme: history
+  - answers:
+      - Цезарь
+      - Чингисхан
+      - Александр Македонский
+      - Наполеон
+    correct_answer_index: 2
+    text: Кто завоевал Персию?
+    theme: history
+  - answers:
+      - Ньютон
+      - Эйнштейн
+      - Галилей
+      - Бойль
+    correct_answer_index: 0
+    text: Кто сформулировал законы движения?
+    theme: science
+  - answers:
+      - Золото
+      - Озон
+      - Оксиген
+      - Олово
+    correct_answer_index: 2
+    text: Какой химический элемент обозначается как O?
+    theme: science
+  - answers:
+      - '8'
+      - '9'
+      - '10'
+      - '7'
+    correct_answer_index: 0
+    text: Сколько планет в Солнечной системе?
+    theme: science
+  - answers:
+      - 300 000 км/с
+      - 150 000 км/с
+      - 1 000 км/с
+      - 500 000 км/с
+    correct_answer_index: 0
+    text: 'Скорость света приблизительно равна:'
+    theme: science
+  - answers:
+      - Материю
+      - Космос
+      - Жизнь
+      - Числа
+    correct_answer_index: 2
+    text: Что изучает биология?
+    theme: science
+  - answers:
+      - Достоевский
+      - Пушкин
+      - Толстой
+      - Гоголь
+    correct_answer_index: 2
+    text: Кто написал 'Войну и мир'?
+    theme: literature
+  - answers:
+      - Мольер
+      - Шекспир
+      - Диккенс
+      - Тургенев
+    correct_answer_index: 1
+    text: Автор 'Гамлета'?
+    theme: literature
+  - answers:
+      - '1984'
+      - 451 градус
+      - Три товарища
+      - Повелитель мух
+    correct_answer_index: 0
+    text: Какой роман написал Орвелл?
+    theme: literature
+  - answers:
+      - Гоголь
+      - Толстой
+      - Достоевский
+      - Булгаков
+    correct_answer_index: 2
+    text: Кто написал 'Преступление и наказание'?
+    theme: literature
+  - answers:
+      - Стихи о любви
+      - Фантастика
+      - Научные труды
+      - Пьесы
+    correct_answer_index: 0
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - Стихи о любви
+      - Пьесы
+      - Фантастика
+      - Научные труды
+    correct_answer_index: 0
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - '1984'
+      - 451 градус
+      - Три товарища
+      - Повелитель мух
+    correct_answer_index: 0
+    text: Какой роман написал Орвелл?
+    theme: literature
+  - answers:
+      - Стихи о любви
+      - Фантастика
+      - Пьесы
+      - Научные труды
+    correct_answer_index: 0
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - Гоголь
+      - Пушкин
+      - Достоевский
+      - Толстой
+    correct_answer_index: 3
+    text: Кто написал 'Войну и мир'?
+    theme: literature
+  - answers:
+      - 150 000 км/с
+      - 500 000 км/с
+      - 1 000 км/с
+      - 300 000 км/с
+    correct_answer_index: 3
+    text: 'Скорость света приблизительно равна:'
+    theme: science
+  - answers:
+      - 500 000 км/с
+      - 300 000 км/с
+      - 150 000 км/с
+      - 1 000 км/с
+    correct_answer_index: 1
+    text: 'Скорость света приблизительно равна:'
+    theme: science
+  - answers:
+      - Мольер
+      - Шекспир
+      - Тургенев
+      - Диккенс
+    correct_answer_index: 1
+    text: Автор 'Гамлета'?
+    theme: literature
+  - answers:
+      - Толстой
+      - Достоевский
+      - Гоголь
+      - Пушкин
+    correct_answer_index: 0
+    text: Кто написал 'Войну и мир'?
+    theme: literature
+  - answers:
+      - Фантастика
+      - Пьесы
+      - Научные труды
+      - Стихи о любви
+    correct_answer_index: 3
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - Вторая мировая война
+      - Первая мировая война
+      - Холодная война
+      - Крестовые походы
+    correct_answer_index: 0
+    text: Какое событие началось в 1939 году?
+    theme: history
+  - answers:
+      - Бельгия
+      - Германия
+      - Англия
+      - Франция
+    correct_answer_index: 0
+    text: Где проходила битва при Ватерлоо?
+    theme: history
+  - answers:
+      - '17'
+      - '9'
+      - '21'
+      - '15'
+    correct_answer_index: 0
+    text: Какое число является простым?
+    theme: math
+  - answers:
+      - Научные труды
+      - Фантастика
+      - Пьесы
+      - Стихи о любви
+    correct_answer_index: 3
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - Толстой
+      - Булгаков
+      - Гоголь
+      - Достоевский
+    correct_answer_index: 3
+    text: Кто написал 'Преступление и наказание'?
+    theme: literature
+  - answers:
+      - Пьесы
+      - Стихи о любви
+      - Научные труды
+      - Фантастика
+    correct_answer_index: 1
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - '1984'
+      - 451 градус
+      - Повелитель мух
+      - Три товарища
+    correct_answer_index: 0
+    text: Какой роман написал Орвелл?
+    theme: literature
+  - answers:
+      - Научные труды
+      - Фантастика
+      - Пьесы
+      - Стихи о любви
+    correct_answer_index: 3
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - Стихи о любви
+      - Фантастика
+      - Научные труды
+      - Пьесы
+    correct_answer_index: 0
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - '21'
+      - '15'
+      - '17'
+      - '9'
+    correct_answer_index: 2
+    text: Какое число является простым?
+    theme: math
+  - answers:
+      - Стихи о любви
+      - Пьесы
+      - Научные труды
+      - Фантастика
+    correct_answer_index: 0
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - '10'
+      - '12'
+      - '11'
+      - '13'
+    correct_answer_index: 1
+    text: Чему равен корень из 144?
+    theme: math
+  - answers:
+      - '15'
+      - '21'
+      - '17'
+      - '9'
+    correct_answer_index: 2
+    text: Какое число является простым?
+    theme: math
+  - answers:
+      - Пьесы
+      - Стихи о любви
+      - Научные труды
+      - Фантастика
+    correct_answer_index: 1
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - Цезарь
+      - Александр Македонский
+      - Чингисхан
+      - Наполеон
+    correct_answer_index: 1
+    text: Кто завоевал Персию?
+    theme: history
+  - answers:
+      - '16'
+      - '64'
+      - '10'
+      - '32'
+    correct_answer_index: 3
+    text: Сколько будет 2 в 5 степени?
+    theme: math
+  - answers:
+      - Повелитель мух
+      - '1984'
+      - Три товарища
+      - 451 градус
+    correct_answer_index: 1
+    text: Какой роман написал Орвелл?
+    theme: literature
+  - answers:
+      - Пьесы
+      - Фантастика
+      - Научные труды
+      - Стихи о любви
+    correct_answer_index: 3
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - Стихи о любви
+      - Пьесы
+      - Научные труды
+      - Фантастика
+    correct_answer_index: 0
+    text: Какая поэзия принадлежит Есенину?
+    theme: literature
+  - answers:
+      - 451 градус
+      - Три товарища
+      - Повелитель мух
+      - '1984'
+    correct_answer_index: 3
+    text: Какой роман написал Орвелл?
+    theme: literature
+  - answers:
+      - Диккенс
+      - Шекспир
+      - Тургенев
+      - Мольер
+    correct_answer_index: 1
+    text: Автор 'Гамлета'?
+    theme: literature

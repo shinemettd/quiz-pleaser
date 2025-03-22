@@ -1,0 +1,12 @@
+﻿themes:
+  - id: common
+    title: Общие
+    description: Без категории
+    
+  - id: math
+    title: Математика
+    description: Основные вопросы по арифметике и логике
+
+  - id: history
+    title: История
+    description: Исторические события и факты
