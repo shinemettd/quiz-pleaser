@@ -1,5 +1,7 @@
 ﻿{
-"menu.title": "=== Quiz Pleaser ===",
+  "lang.name": "English",
+  
+  "menu.title": "=== Quiz Pleaser ===",
   "menu.choice": "Choice: ",
   "menu.start": "Start Quiz",
   "menu.results": "Results",
