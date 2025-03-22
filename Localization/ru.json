@@ -5,5 +5,10 @@
   "menu.results": "Результаты",
   "menu.import": "Импорт",
   "menu.exit": "Выход",
-  "error.invalid_input": "Некорректный ввод"
+
+  "info.loading_questions": "Загрузка вопросов",
+  "info.loading_themes": "Загрузка тем",
+  
+  "error.invalid_input": "Некорректный ввод",
+  "error.file_not_found": "Файл не найден"
 }
