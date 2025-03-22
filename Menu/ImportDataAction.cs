@@ -2,10 +2,15 @@
 
 namespace QuizPleaser.Menu;
 
-public class ImportDataAction(ILocalizer localizer) : IMenuAction
+public class ImportDataAction : IMenuAction
 {
     private readonly ILocalizer _localizer;
-    
+
+    public ImportDataAction(ILocalizer localizer)
+    {
+        _localizer = localizer;
+    }
+
     public string Name => _localizer["menu.import"];
     
     public void Execute()

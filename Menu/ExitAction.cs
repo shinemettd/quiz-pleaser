@@ -2,10 +2,15 @@
 
 namespace QuizPleaser.Menu;
 
-public class ExitAction(ILocalizer localizer) : IMenuAction
+public class ExitAction : IMenuAction
 {
     private readonly ILocalizer _localizer;
-    
+
+    public ExitAction(ILocalizer localizer)
+    {
+        _localizer = localizer;
+    }
+
     public string Name => _localizer["menu.exit"];
     
     public void Execute()

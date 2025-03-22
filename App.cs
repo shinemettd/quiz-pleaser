@@ -3,10 +3,16 @@ using QuizPleaser.Services;
 
 namespace QuizPleaser;
 
-public class App(ILocalizer localizer, IEnumerable<IMenuAction> actions)
+public class App
 {
     private readonly ILocalizer _localizer;
     private readonly IEnumerable<IMenuAction> _actions;
+
+    public App(ILocalizer localizer, IEnumerable<IMenuAction> actions)
+    {
+        _localizer = localizer;
+        _actions = actions;
+    }
     
     public void Run()
     {
