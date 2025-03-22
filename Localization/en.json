@@ -1,0 +1,9 @@
+﻿{
+"menu.title": "=== Quiz Pleaser ===",
+  "menu.choice": "Choice: ",
+  "menu.start": "Start Quiz",
+  "menu.results": "Results",
+  "menu.import": "Import",
+  "menu.exit": "Exit",
+  "error.invalid_input": "Invalid input"
+}

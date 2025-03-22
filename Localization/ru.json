@@ -1,0 +1,9 @@
+﻿{
+  "menu.title": "=== Квиз Плизер ===",
+  "menu.choice": "Выбор: ",
+  "menu.start": "Старт викторины",
+  "menu.results": "Результаты",
+  "menu.import": "Импорт",
+  "menu.exit": "Выход",
+  "error.invalid_input": "Некорректный ввод"
+}
