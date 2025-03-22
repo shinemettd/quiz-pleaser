@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.db
+*.DS_Store
