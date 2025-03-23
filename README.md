@@ -99,4 +99,27 @@ Each saved answer contains:
 - Was the answer correct
 - Timestamp
 
+## screenshots (with ru localization)
+
+### first look
+
+![First Look](Screenshots/FirstLook.jpg)
+
+---
+
+### start quiz in action
+
+![Start Quiz In Action](Screenshots/StartQuizInAction.jpg)
+
+---
+
+### results in action
+
+![Results In Action](Screenshots/ResultsInAction.jpg)
+
+---
+
+### exit in action
+
+![Exit In Action](Screenshots/ExitInAction.jpg)
 
