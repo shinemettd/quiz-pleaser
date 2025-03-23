@@ -1,11 +1,30 @@
 ﻿{
   "lang.name": "English",
-  
+
   "menu.title": "=== Quiz Pleaser ===",
   "menu.choice": "Choice: ",
   "menu.start": "Start Quiz",
   "menu.results": "Results",
   "menu.import": "Import",
   "menu.exit": "Exit",
-  "error.invalid_input": "Invalid input"
+  "menu.bye_message": "Goodbye!",
+
+  "quiz.question_count_prompt": "How many questions do you want to answer? Total: ",
+  "quiz.no_questions": "No available questions.",
+  "quiz.answer_prompt": "Your answer: ",
+  "quiz.correct": "Correct!",
+  "quiz.wrong": "Incorrect.",
+  "quiz.correct_answer": "Correct answer",
+  "quiz.press_any_key": "Press any key to continue...",
+  "quiz.result_summary": "Your result:",
+
+  "results.header": "Your stats by topic:",
+  "results.no_data": "No saved results.",
+  "theme.unknown": "No category",
+
+  "info.loading_questions": "Loading questions",
+  "info.loading_themes": "Loading themes",
+
+  "error.invalid_input": "Invalid input",
+  "error.file_not_found": "File not found"
 }

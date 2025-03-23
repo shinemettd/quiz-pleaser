@@ -7,6 +7,7 @@
   "menu.results": "Результаты",
   "menu.import": "Импорт",
   "menu.exit": "Выход",
+  "menu.bye_message": "Пока!",
 
   "quiz.question_count_prompt": "Сколько вопросов вы хотите пройти? Всего: ",
   "quiz.no_questions": "Нет доступных вопросов.",
@@ -16,6 +17,10 @@
   "quiz.correct_answer": "Правильный ответ",
   "quiz.press_any_key": "Нажмите любую клавишу для продолжения...",
   "quiz.result_summary": "Ваш результат:",
+
+  "results.header": "Ваша статистика по темам:",
+  "results.no_data": "Нет сохранённых результатов.",
+  "theme.unknown": "Без категории",
 
   "info.loading_questions": "Загрузка вопросов",
   "info.loading_themes": "Загрузка тем",

@@ -43,6 +43,8 @@ public class StartQuizAction : IMenuAction
             .Take(count)
             .ToList();
         
+        ListUtil.Shuffle(selectedQuestions);
+
         int correctCount = 0;
         
         foreach (var question in selectedQuestions)
@@ -66,6 +68,7 @@ public class StartQuizAction : IMenuAction
             _resultService.SaveAnswer(new UserAnswer
             {
                 QuestionHash = hash,
+                ThemeId = question.ThemeId,
                 IsCorrect = answerIndex == question.CorrectAnswerIndex
             });
             

@@ -1,4 +1,5 @@
 ﻿using QuizPleaser.Services;
+using QuizPleaser.Utils;
 
 namespace QuizPleaser.Menu;
 
@@ -15,6 +16,7 @@ public class ExitAction : IMenuAction
     
     public void Execute()
     {
+        ConsoleUtil.TypeLine(_localizer["menu.bye_message"], 50);
         Environment.Exit(0);
     }
 }
