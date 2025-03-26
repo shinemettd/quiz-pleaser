@@ -6,6 +6,12 @@ This started as a simple exam project but turned into a mini-framework for termi
 
 ---
 
+## youtube link
+
+https://youtu.be/LxoXVSkG0sg
+
+---
+
 ## clowning
 
 ```bash
